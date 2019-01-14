@@ -8,7 +8,7 @@ Note that in order to not be JavaScript dependant, this library add the class wh
 
 [![dependencies Status](https://david-dm.org/Twikito/onscroll-effect/status.svg?style=flat-square)](https://david-dm.org/Twikito/onscroll-effect)
 [![devDependencies Status](https://david-dm.org/Twikito/onscroll-effect/dev-status.svg?style=flat-square)](https://david-dm.org/Twikito/onscroll-effect?type=dev)
-[![GitHub license](https://img.shields.io/github/license/Twikito/onscroll-effect.svg?style=flat-square)](https://github.com/Twikito/onscroll-effect/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Twikito/onscroll-effect.svg?style=flat-square)](https://github.com/Twikito/onscroll-effect/blob/master/LICENSE) [![Greenkeeper badge](https://badges.greenkeeper.io/Twikito/onscroll-effect.svg)](https://greenkeeper.io/)
 
 ## Quick start
 
